@@ -1,0 +1,7 @@
+﻿  PickAWord.cpp
+  concordance.cpp
+c:\users\justin\documents\cpp\pickaword\concordance.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\justin\documents\cpp\pickaword\concordance.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\justin\documents\cpp\pickaword\concordance.cpp(65): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  PickAWord.vcxproj -> C:\Users\Justin\Documents\CPP\PickAWord\Debug\PickAWord.exe
