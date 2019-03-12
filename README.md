@@ -1,4 +1,4 @@
-# cpp-concordance
+# Concordance
 Reads text files and generates a concordance of the text file
 
 PickAWord.cpp is the main file and should be run to start the program
